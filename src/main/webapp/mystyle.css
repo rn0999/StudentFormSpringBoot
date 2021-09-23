@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+h2{
+margin-left:190px;
+}
+label{
+margin-left:150px;
+}
+#name{
+margin-left:25px;
+}
+#address{
+margin-left:10px;
+}
+#rollno{
+margin-left:15px;
+}
+button{
+margin-left:220px;
+}
